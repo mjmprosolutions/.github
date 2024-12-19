@@ -8,6 +8,8 @@
 
 # DT3DART Studio
 
+Welcome to the Diamond Quick Supply organization's GitHub profile page! This page provides an overview of our organization, its purpose, projects, and guidelines for contribution.
+
 ## Contact
 
 Feel free to reach out to us if you have any questions, suggestions, or feedback regarding our projects or organization:
