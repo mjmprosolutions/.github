@@ -6,9 +6,9 @@
      <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" /> 
 </p>
 
-# DT3DART Studio
+# DT3DART LLC
 
-Welcome to the Diamond Quick Supply organization's GitHub profile page! This page provides an overview of our organization, its purpose, projects, and guidelines for contribution.
+Welcome to the DT3DART LLC organization's GitHub profile page! This page provides an overview of our organization, its purpose, projects, and guidelines for contribution.
 
 ## Contact
 
